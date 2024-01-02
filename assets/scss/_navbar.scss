@@ -1,0 +1,29 @@
+.atevadd-nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 0;
+
+  &__container {
+    border: 2px solid #000;
+    width: 70%;
+    box-shadow: 8px 9px 0px -3px #000;
+    -webkit-box-shadow: 8px 9px 0px -3px #000;
+    -moz-box-shadow: 8px 9px 0px -3px #000;
+    padding: 1rem 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  &__logo {
+    a {
+      text-decoration: none;
+    }
+  }
+  &__links {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+}
