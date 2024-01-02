@@ -5,6 +5,7 @@
       <div class="atevadd-hero__text">
         <h2>Hi, I'm Tofunmi</h2>
         <h1>Frontend Developer</h1>
+        <p></p>
       </div>
       <div class="atevadd-hero__img">
         <img src="@/assets/images/portrait.jpg" alt="" />
