@@ -1,0 +1,21 @@
+{
+  "hero": {
+    "subheading": "Hi, I'm Tofunmi",
+    "heading": "Frontend Developer",
+    "subtitle": "I build pixel perferct, responsive, user-friendly, high-performance website that is accessible to all, helping individuals and businesses achieve their goals."
+  },
+  "values": [
+    {
+      "heading": "Responsive",
+      "body": "I build websites that can adapt to any screen size, either a mobile device, tablet device or a desktop device. Presenting the website in best possible way"
+    },
+    {
+      "heading": "Pixel Perfect",
+      "body": "When collaborating with designers I'm presented with a design to bring to life with resources like colors, typography, icons at my disposal. When building the designn I recreate it just as the design is"
+    },
+    {
+      "heading": "Accessible",
+      "body": "I create websites that is attractive to the users by using the rightm colors, typography, icons that represents the vision of the individual or business"
+    }
+  ]
+}
